@@ -2,7 +2,7 @@
 
 ## A versatile Java Developer, Data Science & ML enthusiast. I craft sleek web interfaces and turn data into actionable insights.
 
-🌐 Front-End: HTML, CSS, JavaScript, React, Vue.js, Bootstrap 
+🌐 Front-End: HTML, CSS, JavaSwing, JavaScript, React, Bootstrap 
 
 📊 ML & Data Science: Python, Pandas, Scikit-Learn, Matplotlib, TensorFlow
 
