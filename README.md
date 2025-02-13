@@ -1,9 +1,7 @@
 # 👋 Hi, I am Kavish Vijay...
 
-## A versatile Java Developer, Data Science & ML enthusiast. I craft sleek web interfaces and turn data into actionable insights.
+## A versatile Java Developer. I craft sleek web interfaces and turn data into actionable insights.
 
-🌐 Front-End: HTML, CSS, JavaSwing, JavaScript, React, Bootstrap 
+🌐 Skill: HTML, CSS, JavaSwing, JavaScript, Springboot, Bootstrap,Sql, Postman, Docker, Postgres, Fastapi
 
-📊 ML & Data Science: Python, Pandas, Scikit-Learn, Matplotlib, TensorFlow
-
-🚀 Always learning, always building. Let's create something awesome together!
+🚀 Always learning, always building. Let's create something awesome together.
